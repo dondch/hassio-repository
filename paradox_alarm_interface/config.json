@@ -4,7 +4,7 @@
   "slug": "paradox_alarm_interface",
   "description": "Paradox Alarm Interface. Supports SP/MG/EVO, Serial and IP150 connections.",
   "url": "https://github.com/EmileSpecs/pai",
-  "arch": ["armv7", "aarch64", "amd64"],
+  "arch": ["armv7", "aarch64", "amd64", "i686"],
   "startup": "application",
   "boot": "auto",
   "options": {

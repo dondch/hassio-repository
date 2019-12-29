@@ -54,5 +54,5 @@
   "host_network": true,
   "services": ["mqtt:want"],
   "map": ["share:rw"],
-  "image": "emilespecs/pai"
+  "image": "paradoxalarminterface/pai:dev-latest" 
 }
